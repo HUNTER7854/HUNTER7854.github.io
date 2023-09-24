@@ -1084,7 +1084,7 @@ body {
 
 .text {
 	font-family: "Yanone Kaffeesatz";
-	font-size: 100px;
+	font-size: 30px;
 	display: flex;
 	position: absolute;
 	bottom: 20vh;

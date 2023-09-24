@@ -1064,3 +1064,6 @@ body {
     width: 100%;
   }
 }
+.ytp-cued-thumbnail-overlay-image{
+    display: inline-block;
+}
